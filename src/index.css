@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.game {
+  display: flex;
+  gap: 20px;
+}
+
+.game-board {
+  margin-top: 20px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.status {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.game-info {
+  margin-top: 20px;
+}
