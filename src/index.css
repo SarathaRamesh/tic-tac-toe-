@@ -22,6 +22,12 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+.square.x {
+  color: red;
+}
+.square.o {
+  color: orange;
+}
 
 .status {
   margin-bottom: 10px;
